@@ -10,7 +10,7 @@
 </div>
 
 ## News
-- **[2025-01]** The codebase of MemFusionMap is released!
+- **[2025-03]** The code for MemFusionMap is available!
 - **[2024-11]** The preprint of the camera-ready paper is available on [arXiv](https://arxiv.org/abs/2409.18737).
 - **[2024-10]** MemFusionMap is accepted by WACV 2025.
 
