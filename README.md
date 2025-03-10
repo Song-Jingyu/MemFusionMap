@@ -3,7 +3,7 @@
   
   <h3>[WACV 2025] MemFusionMap: Working Memory Fusion for Online Vectorized HD Map Construction </h3>
   
-  [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2308.12570)
+  [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2409.18737)
   [![Website](https://img.shields.io/badge/website-%3CCOLOR%3E.svg)](https://song-jingyu.github.io/MemFusionMap/)
 
   <img src="./resources/Overview.svg" width="950px">
